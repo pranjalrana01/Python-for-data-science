@@ -16,7 +16,7 @@ The goal of this repository is to build a **strong Python foundation** required 
 python-for-data-science/
 │── basics/
 │── oops/
-│── APISs
+│── API_handling
 │── numpy/
 │── pandas/
 │── projects/
